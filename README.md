@@ -130,8 +130,8 @@ Plotly
 
 Hugging Face
 
-🔗 Made with ❤️ by @dadicharan
+📌 This repository is based on the original work by @dadicharan  
+Modified for extended functionality and uploaded by [Shameera1111]
+
 
 ---
-
-Let me know if you'd like help generating a `requirements.txt`, adding badges (like license or version), or creating a demo video link or screenshots section.
